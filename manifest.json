@@ -2,14 +2,13 @@
     "name": "aplikacja pogodowa",
     "short_name": "weatherAPP",
     "theme_color": "#48484a",
-    "background_color": "#2196f3",
     "display": "fullscreen",
     "orientation": "portrait",
     "scope": "/",
     "start_url": "/PWA/",
     "icons" : [
         {
-            "src" : "./icon.png",
+            "src" : "icon.png",
             "sizes" : "512x512",
             "type" : "image/png"
         }
